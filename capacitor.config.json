@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "PulseCam",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

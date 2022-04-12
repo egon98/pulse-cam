@@ -1,0 +1,8 @@
+{
+  "name": "PulseCam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f0453d7b"
+}
