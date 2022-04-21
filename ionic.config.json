@@ -1,7 +1,10 @@
 {
   "name": "PulseCam",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular",
   "id": "f0453d7b"
