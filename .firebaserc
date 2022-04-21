@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pulsecam-14307"
+  },
+  "targets": {
+    "pulsecam-14307": {
+      "hosting": {
+        "app": [
+          "pulsecam-14307"
+        ]
+      }
+    }
+  }
+}
